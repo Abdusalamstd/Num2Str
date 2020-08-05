@@ -1,6 +1,7 @@
 # Num2Str
-Convert Numbers into String.سانلارنى تېكسىتكە ئايلاندۇرۇش
-
+### Convert Numbers into String.سانلارنى تېكسىتكە ئايلاندۇرۇش
+Convert Integer Numbers into Strings , Up to 50 digits in length Integer.   
+پۈتۈن سانلارنى تېكسىتكە ئايلاندۇرۇش ، ئۇزۇنلۇقى 50 خانىلىق سانغىچە بولسا بولىدۇ..
 ## code
 
 ```python
@@ -82,3 +83,4 @@ else:
 print(Asl)
 print(Ans)
 ```
+![Sample](/out.png)
