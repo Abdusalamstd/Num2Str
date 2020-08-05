@@ -68,6 +68,9 @@ Len = len(str(Num))
 Ans = ""
 if Len==1:
     Ans = BaseNum[Num]
+elif Len > 50:
+    print("Toooo Big!")
+    Ans = Num
 else:
     cnt = 0
     while(Len > 1 or (Len == 1 and Num > 0)):
