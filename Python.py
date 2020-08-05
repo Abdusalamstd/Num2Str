@@ -1,5 +1,3 @@
-```python
-
 Space = " "
 Zero = "نۆل"
 One = "بىر"
@@ -85,5 +83,3 @@ f.write('\n')
 f.write(Ans)
 f.close()
 ''
-
-```
